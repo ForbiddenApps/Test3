@@ -14,7 +14,7 @@ SMS Spoofer is a tool for social engineering attacks.
 + Light.
 + Easy to use.
 
-## How does it work? ❓
+## How does it work? 🧪
 
 + [Demo video](https://www.youtube.com/watch?v=8v4dyQRb7ho)
 
